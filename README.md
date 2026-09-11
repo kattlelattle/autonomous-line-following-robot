@@ -6,6 +6,10 @@ Low-cost autonomous line-following robot developed as a University of Toronto EC
   <img src="images/robot_final.png" alt="Final line-following robot" width="420">
 </p>
 
+## Demo
+
+[Robot completing test track](https://youtu.be/DiFReegMmhk)
+
 ## Overview
 
 The original platform used four continuous-rotation servos. I redesigned it around:

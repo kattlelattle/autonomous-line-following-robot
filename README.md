@@ -53,10 +53,6 @@ The longer **139 mm sensor look-ahead** produced the largest improvement. The be
 
 Raw results: [`trial_results.csv`](testing/trial_results.csv)
 
-<p align="center">
-  <img src="images/robot_on_track.png" alt="Robot during testing" width="380">
-</p>
-
 ## Research Poster
 
 [View the project poster](docs/research_poster.pdf)

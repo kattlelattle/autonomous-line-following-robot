@@ -1,12 +1,8 @@
 # Autonomous Line-Following Robot
 
-A hardware redesign and performance evaluation of a low-cost autonomous
-line-following robot developed through the University of Toronto
-Department of Electrical and Computer Engineering.
+A hardware redesign and performance evaluation of a low-cost autonomous line-following robot, developed through the Department of Electrical and Computer Engineering @UofT and funded by the First Year Summer Research Fellowship.
 
-The project evaluated whether a supplied lower-cost drivetrain could
-replace an existing four-servo drivetrain while maintaining reliable
-autonomous line following for future first-year ECE workshops.
+The project evaluated whether a supplied lower-cost drivetrain could replace an existing four-servo drivetrain while maintaining reliable autonomous line following for future first-year ECE workshops.
 
 ## Final Result
 

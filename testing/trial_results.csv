@@ -1,0 +1,5 @@
+sensor_lookahead_mm,chassis,successful_trials,total_trials,completion_rate
+16,tilted,7,25,28
+16,level,13,25,52
+139,tilted,23,25,92
+139,level,24,25,96

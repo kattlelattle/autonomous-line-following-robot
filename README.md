@@ -4,6 +4,11 @@ A hardware redesign and performance evaluation of a low-cost autonomous line-fol
 
 The project evaluated whether a supplied lower-cost drivetrain could replace an existing four-servo drivetrain while maintaining reliable autonomous line following for future first-year ECE workshops.
 
+<p align="center">
+  <img src="images/robot_final.png" width="700">
+</p>
+
+
 ## Final Result
 
 - 96% successful autonomous track completion

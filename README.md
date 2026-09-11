@@ -61,4 +61,4 @@ Raw results: [`trial_results.csv`](testing/trial_results.csv)
 
 [View the project poster](docs/research_poster.pdf)
 
-Supervised by **Professor Hamid Timorabadi**, Department of Electrical and Computer Engineering, University of Toronto.
+Supervised by Professor Hamid Timorabadi, Department of Electrical and Computer Engineering, University of Toronto.

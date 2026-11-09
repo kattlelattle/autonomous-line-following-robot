@@ -10,6 +10,10 @@ Low-cost autonomous line-following robot developed as a University of Toronto EC
 
 ## Demo
 
+
+https://github.com/user-attachments/assets/c7da8916-5595-4403-a35c-7404c2de748b
+
+
 [Robot completing test track](https://youtu.be/DiFReegMmhk)
 
 ## Overview
